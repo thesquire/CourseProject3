@@ -1,1 +1,1 @@
-# CourseProject3
+The script should first check to see if the files for the assignment have already been downloaded.  If so, it skips that step.  If not, it downloads them.  The script then proceeds with the required analysis, creates a tidy data set, and outputs that data set to a file.
